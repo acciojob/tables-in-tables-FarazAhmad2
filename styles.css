@@ -1,2 +1,29 @@
 
 /* Your CSS Code here. */
+
+#parent {
+    border: 2px solid black;
+    text-align: center;
+}
+
+.child{
+    border: 2px solid black;
+    width: 100%;
+	/* text-align: center; */
+}
+
+.parentdata {
+    border: 2px solid black;
+    width: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#table4 {
+    background-color: black;
+    color: white;
+}
+
+td,th {
+    border: 2px solid black;
+}
